@@ -126,6 +126,15 @@ Enterprise-Grade_To-Do_List/
 
 Here are some screenshots of the application in action:
 
+<<<<<<< HEAD
+=======
+**Image 1:**
+![Image 1](./imgs/image.png)
+
+**Image 2:**
+![Image 2](./imgs/image2.png)
+
+>>>>>>> df8243c (ui changes)
 ## Usage Examples
 
 ### Natural Language Input Examples:
